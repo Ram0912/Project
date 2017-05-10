@@ -4,4 +4,5 @@ import com.spring.project.model.UploadFile;
 
 public interface FileUploadDAO {
 	void save(UploadFile uploadFile);
+	
 }
