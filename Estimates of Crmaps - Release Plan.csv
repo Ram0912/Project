@@ -1,0 +1,29 @@
+Release Date,,,
+15-02-2021,,,
+,Improve existing tables,,
+,Add new tables with front end access,,
+,,New data sets,
+,,Front access table access for them,
+,,,
+22-02-2021,,,
+,Backend Multi-level access user access,,
+,Frontend Multi-level access user Registration,,
+,,,
+,,Super Admin Level: Create Admins,
+,,Admin Level: Have Access to all features/analysis/tables,
+,,Premium level: Most of the features (feature set should be selectable by the Admin),
+,,Basic Level: A few features (no download feature),
+,,,
+,,MFA,
+,,,
+,,"Login, log out, forgot password",
+,,Front-end user sign-up page with “Premium level” linked to payment,
+,,,
+,,User registration details:,
+,,,First Name
+,,,Last Name
+,,,Email address (user ID)
+,,,Organization name
+,,,
+,,Back end to manage this:,
+,,,All registrations need to be approved by Admin
